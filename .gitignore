@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-lite/
+release/
+mcp-eval-results/
+.fixtures/
+coverage/
+*.tgz
